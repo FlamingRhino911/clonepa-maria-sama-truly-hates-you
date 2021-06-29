@@ -17,3 +17,4 @@ If you want the current version in this repo:
 5. Copy the third track (Maria-Sama Truly Hates You!!!) to the beatmap's folder.
 6. Rename the track in the folder to `audio.mp3`.
 
+TODO: simplified instructions for current version using the website version as base.
