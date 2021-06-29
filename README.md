@@ -10,8 +10,10 @@ If you want polished versions that I think are ready to be revised, just wait un
 
 If you want the current version in this repo:
 
-1. Click the green [Code] button on GitHub, download it as zip, and rename the downloaded file to have the extension `.osz`. 
-1. Download MP3 320 format from the Bandcamp source mentioned above
-1. Copy the third track (Maria-Sama Truly Hates You!!!) to the beatmap folder in your osu.
-1. Rename the track in the folder to `audio.mp3`.
+1. Click the green [Code] button on GitHub and download it as zip.
+2. Rename the downloaded file to have the extension `.osz`.
+3. Open the `.osz` file on your computer, this should extract the beatmap to your osu! songs folder.
+4. Download MP3 320 format from the Bandcamp source mentioned above
+5. Copy the third track (Maria-Sama Truly Hates You!!!) to the beatmap's folder.
+6. Rename the track in the folder to `audio.mp3`.
 
